@@ -1,0 +1,22 @@
+# Go-related
+bin/
+*.exe
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# SQLC plugin binaries (optional)
+.sqlc/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
